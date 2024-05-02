@@ -52,7 +52,3 @@ To use this project:
 2. Ensure you have TensorFlow and other dependencies installed.
 3. Run the provided code scripts for training and evaluation.
 4. Customize the model architecture or training parameters as needed for your application.
-
-## Contributors
-
-- Baladithya vaka
